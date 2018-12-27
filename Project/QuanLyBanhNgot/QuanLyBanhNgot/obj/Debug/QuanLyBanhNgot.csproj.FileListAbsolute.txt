@@ -1,0 +1,11 @@
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\bin\Debug\QuanLyBanhNgot.exe.config
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\bin\Debug\QuanLyBanhNgot.exe
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\bin\Debug\QuanLyBanhNgot.pdb
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.csprojAssemblyReference.cache
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.Flogin.resources
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.Properties.Resources.resources
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.csproj.GenerateResource.cache
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.csproj.CoreCompileInputs.cache
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.exe
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.pdb
+D:\QuanLyBanhNGot\Project\QuanLyBanhNgot\QuanLyBanhNgot\obj\Debug\QuanLyBanhNgot.FMain.resources
